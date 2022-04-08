@@ -31,13 +31,3 @@
 > programa que leia o nome dos quatro alunos e mostre a ordem sorteada.
 
 > 6. Faça um programa em Python que abra e reproduza o áudio de um arquivo mp3.
-
-> 7. 
-
-> 8. 
-
-> 9. 
-
-> 10. 
-
-> 11. 
