@@ -32,7 +32,7 @@ Ou (da esquerda para a direita, quem aparecer primeiro)
 
 > 2. Crie um algoritmo que leia um número e mostre o seu dobro, triplo e raiz quadrada.
 
-> 3.  Desenvolva um programa que leia as duas notas de um aluno, calcule e mostre sua média.
+> 3. Desenvolva um programa que leia as duas notas de um aluno, calcule e mostre sua média.
 
 > 4. Escreva um programa que leia um valor em metros e o exiba convertido em centímetros e milímetros.
 
