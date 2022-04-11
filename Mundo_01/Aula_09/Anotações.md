@@ -20,7 +20,7 @@ de memória. Cada caracter guardado recebe um índice.
 >  - Ex.: Contar a quantidade de vezes que aparece um caractere -> frase.count('caractere')
 >  - Ex.: Contar a quantidade de vezes que aparece um caractere em um fatiamento -> frase.count('caractere', começo, fim+1)
 >  - Ex.: Obter o momento em que começa uma determinada sequencia de caracteres -> frase.find('string')
->  - Se passar uma string que não existe dentro da frase para o .find('string), ele retornará "-1". Isso significa
+>  - Se passar uma string que não existe dentro da frase para o .find('string'), ele retornará "-1". Isso significa
 > que a string não existe e não foi encontrada na frase.
 >  - Ex.: Verificar se existe uma string dentro da frase -> 'String' in frase (retorna True ou False)
 
