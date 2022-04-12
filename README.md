@@ -6,15 +6,15 @@ Repository for recording the Python course activities of the Video Course, taugh
 ## ⚠️ Some Cares
 **Keep in mind that these are basic classes, perfect for beginners. These classes can be found at:**
 
-- [World 01](https://www.youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6)
-- [World 02](https://www.youtube.com/playlist?list=PLHz_AreHm4dk_nZHmxxf_J0WRAqy5Czye)
-- [World 03](https://www.youtube.com/playlist?list=PLHz_AreHm4dksnH2jVTIVNviIMBVYyFnH)
+- [World 01 - Youtube](https://www.youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6)
+- [World 02 - Youtube](https://www.youtube.com/playlist?list=PLHz_AreHm4dk_nZHmxxf_J0WRAqy5Czye)
+- [World 03 - Youtube](https://www.youtube.com/playlist?list=PLHz_AreHm4dksnH2jVTIVNviIMBVYyFnH)
 
 <br>
 
 ## Works
 
-- [World 01 on Github]([#](https://github.com/helderhsilva/Python_Curso_Em_Video/tree/main/Mundo_01))
+- [World 01 on Github](https://github.com/helderhsilva/Python_Curso_Em_Video/tree/main/Mundo_01)
 - [World 02 on Github](#)
 - [World 03 on Github](#)
 
